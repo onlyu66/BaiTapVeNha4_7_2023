@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    background-color: rgb(2, 50, 2);
+    color: rgb(220, 207, 207);
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 95%;
+}
+.left-group{
+    float: left;
+    width: 40%;
+}
+.mid-group{
+    float: left;
+    width: 30%;
+    margin-left: 100px;
+}
+.right-group{
+    float: right;
+    width: 15%;
+}
+.mid-group ul{
+    list-style-position: inside;
+    margin-left: 10%;
+    margin-top:  10px;
+    margin-bottom: 10px;
+}
+.left-group p{
+    margin: 10px 0;
+}
+.right-group div{
+    margin: 10px 20px;
+}
+
